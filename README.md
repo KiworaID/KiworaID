@@ -60,20 +60,12 @@ class Developer:
 
 ---
 <div align="center" class="motivation">
-  <h2 align="center" data-en="Daily Motivation" data-id="Motivasi Harian">Daily Motivation</h2>
+  <h2 align="center" id="motivation-title">Daily Motivation</h2>
   
   <div class="quote-container">
-    <!-- Quote 1 -->
-    <p class="quote" data-en="Code is poetry in logic, bugs are just plot twists, and debugging is the art of being a detective. Every line you write is a step towards mastery." 
-       data-id="Kode adalah puisi dalam logika, bug hanyalah twist dalam cerita, dan debugging adalah seni menjadi detektif. Setiap baris yang kamu tulis adalah langkah menuju penguasaan."></p>
-    
-    <!-- Quote 2 -->
-    <p class="quote" data-en="Don't just write code—craft solutions, build dreams, and leave your digital fingerprint on the world." 
-       data-id="Jangan sekadar menulis kode—rancang solusi, bangun mimpi, dan tinggalkan jejak digitalmu di dunia."></p>
-    
-    <!-- Quote 3 -->
-    <p class="quote" data-en="The best code is like a good story: elegant, efficient, and leaves a lasting impact." 
-       data-id="Kode terbaik itu seperti cerita yang bagus: elegan, efisien, dan meninggalkan kesan yang tak terlupakan."></p>
+    <p class="quote" id="quote1"></p>
+    <p class="quote" id="quote2"></p>
+    <p class="quote" id="quote3"></p>
   </div>
 </div>
 
@@ -93,7 +85,7 @@ class Developer:
     color: #54F702;
     line-height: 1.6;
     margin: 15px 0;
-    padding: 10px;
+    padding: 10px 20px;
     border-left: 3px solid #54F702;
     background: rgba(84, 247, 2, 0.05);
     transition: all 0.3s ease;
@@ -103,29 +95,38 @@ class Developer:
     transform: translateX(5px);
     background: rgba(84, 247, 2, 0.1);
 }
-
-@media (prefers-color-scheme: dark) {
-    .quote {
-        background: rgba(84, 247, 2, 0.05);
-    }
-}
 </style>
 
 <script>
-function updateLanguage() {
-    const userLang = navigator.language || navigator.userLanguage;
-    const isIndonesian = userLang.toLowerCase().includes('id');
-    const elements = document.querySelectorAll('[data-en]');
-    
-    elements.forEach(element => {
-        element.textContent = isIndonesian ? element.dataset.id : element.dataset.en;
-    });
+const quotes = {
+    en: {
+        title: "Daily Motivation",
+        quote1: "Code is poetry in logic, bugs are just plot twists, and debugging is the art of being a detective. Every line you write is a step towards mastery.",
+        quote2: "Don't just write code—craft solutions, build dreams, and leave your digital fingerprint on the world.",
+        quote3: "The best code is like a good story: elegant, efficient, and leaves a lasting impact."
+    },
+    id: {
+        title: "Motivasi Harian",
+        quote1: "Kode adalah puisi dalam logika, bug hanyalah twist dalam cerita, dan debugging adalah seni menjadi detektif. Setiap baris yang kamu tulis adalah langkah menuju penguasaan.",
+        quote2: "Jangan sekadar menulis kode—rancang solusi, bangun mimpi, dan tinggalkan jejak digitalmu di dunia.",
+        quote3: "Kode terbaik itu seperti cerita yang bagus: elegan, efisien, dan meninggalkan kesan yang tak terlupakan."
+    }
+};
+
+function setLanguage() {
+    const lang = navigator.language.toLowerCase().includes('id') ? 'id' : 'en';
+    document.getElementById('motivation-title').textContent = quotes[lang].title;
+    document.getElementById('quote1').textContent = quotes[lang].quote1;
+    document.getElementById('quote2').textContent = quotes[lang].quote2;
+    document.getElementById('quote3').textContent = quotes[lang].quote3;
 }
 
-// Update language on load
-document.addEventListener('DOMContentLoaded', updateLanguage);
-// Update language when browser language changes
-window.addEventListener('languagechange', updateLanguage);
+// Set language when page loads
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setLanguage);
+} else {
+    setLanguage();
+}
 </script>
 
 <p align="center">
