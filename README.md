@@ -34,7 +34,17 @@ class Developer:
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=default&hide_border=true&title_color=54F702&icon_color=54F702"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=default&hide_border=true&title_color=54F702&icon_color=54F702" />
+  </picture>
 </p>
 
 <h2 align="center">Connect With Me</h2>
