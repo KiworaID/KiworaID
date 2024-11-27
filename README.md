@@ -60,13 +60,15 @@ class Developer:
 
 ---
 <div align="center">
-  <h2 align="center">Daily Motivation</h2>
-  <p align="center">
-    <h4 data-en="🚀 Code with passion, debug with patience, deploy with confidence" 
-        data-id="🚀 Koding dengan semangat, debug dengan sabar, deploy dengan percaya diri"></h4>
-    <h4 data-en="💡 Every bug is a feature waiting to be discovered" 
-        data-id="💡 Setiap bug adalah fitur yang menunggu untuk ditemukan"></h4>
-    <h4 data-en="⚡ The best error message is the one that never shows up" 
-        data-id="⚡ Pesan error terbaik adalah yang tidak pernah muncul"></h4>
+  <h2 align="center">Motivation</h2>
+  <p align="center" style="font-family: 'Traditional Arabic', serif; font-size: 1.2em;">
+    اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ اللَّهِ وَرِضْوَانٌ ۖ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ
   </p>
+  <p align="center" style="font-style: italic; color: #666; margin-top: 10px;">
+    <b>QS Al-Hadid (57:20)</b>
+  </p>
+  <p align="center" style="max-width: 600px; margin: 15px auto; line-height: 1.6;">
+    "Ketahuilah bahwa kehidupan dunia itu hanyalah permainan dan sendagurau, perhiasan dan saling berbangga diantara kamu serta berlomba dalam kekayaan dan anak keturunan. Seperti hujan yang tanam-tanamannya mengagumkan para petani; kemudian (tanaman) itu menjadi kering dan kamu lihat warnanya kuning kemudian menjadi hancur. Dan di akhirat (nanti) ada azab yang keras dan ampunan dari Allah serta keridhaan-Nya. Dan kehidupan dunia tidak lain hanyalah kesenangan yang palsu."
+  </p>
+  <hr style="width: 50%; margin: 20px auto; border: 0; border-top: 1px solid #eee;">
 </div>
