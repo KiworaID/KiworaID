@@ -60,24 +60,75 @@ class Developer:
 
 ---
 <div align="center" class="motivation">
-  <h2 align="center">Daily Motivation</h2>
+  <h2 align="center" data-en="Daily Motivation" data-id="Motivasi Harian">Daily Motivation</h2>
   
-  <div lang="en" class="en">
-    <p><em>"In the world of coding, every error is a lesson, and every solution is a victory. Keep pushing forward!"</em></p>
-  </div>
-  
-  <div lang="id" class="id">
-    <p><em>"Dalam dunia coding, setiap error adalah pembelajaran, dan setiap solusi adalah kemenangan. Terus maju ke depan!"</em></p>
+  <div class="quote-container">
+    <!-- Quote 1 -->
+    <p class="quote" data-en="Code is poetry in logic, bugs are just plot twists, and debugging is the art of being a detective. Every line you write is a step towards mastery." 
+       data-id="Kode adalah puisi dalam logika, bug hanyalah twist dalam cerita, dan debugging adalah seni menjadi detektif. Setiap baris yang kamu tulis adalah langkah menuju penguasaan."></p>
+    
+    <!-- Quote 2 -->
+    <p class="quote" data-en="Don't just write code—craft solutions, build dreams, and leave your digital fingerprint on the world." 
+       data-id="Jangan sekadar menulis kode—rancang solusi, bangun mimpi, dan tinggalkan jejak digitalmu di dunia."></p>
+    
+    <!-- Quote 3 -->
+    <p class="quote" data-en="The best code is like a good story: elegant, efficient, and leaves a lasting impact." 
+       data-id="Kode terbaik itu seperti cerita yang bagus: elegan, efisien, dan meninggalkan kesan yang tak terlupakan."></p>
   </div>
 </div>
 
 <style>
-/* Deteksi bahasa browser */
-:lang(en) .id { display: none; }
-:lang(id) .en { display: none; }
+.motivation {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.quote-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.quote {
+    font-style: italic;
+    color: #54F702;
+    line-height: 1.6;
+    margin: 15px 0;
+    padding: 10px;
+    border-left: 3px solid #54F702;
+    background: rgba(84, 247, 2, 0.05);
+    transition: all 0.3s ease;
+}
+
+.quote:hover {
+    transform: translateX(5px);
+    background: rgba(84, 247, 2, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+    .quote {
+        background: rgba(84, 247, 2, 0.05);
+    }
+}
 </style>
 
+<script>
+function updateLanguage() {
+    const userLang = navigator.language || navigator.userLanguage;
+    const isIndonesian = userLang.toLowerCase().includes('id');
+    const elements = document.querySelectorAll('[data-en]');
+    
+    elements.forEach(element => {
+        element.textContent = isIndonesian ? element.dataset.id : element.dataset.en;
+    });
+}
+
+// Update language on load
+document.addEventListener('DOMContentLoaded', updateLanguage);
+// Update language when browser language changes
+window.addEventListener('languagechange', updateLanguage);
+</script>
+
 <p align="center">
-  <h4>💻 Membangun masa depan, satu baris kode sekaligus</h4>
-  <h4>💻 Building the future, one line of code at a time</h4>
+  <h4 data-en="💻 Building the future, one line of code at a time" 
+      data-id="💻 Membangun masa depan, satu baris kode sekaligus"></h4>
 </p>
