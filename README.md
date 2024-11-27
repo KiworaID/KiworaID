@@ -1,101 +1,64 @@
 <div align="center">
-  <img src="minecraft_header.png" width="100%" alt="Minecraft x AI Banner"/>
+  <img src="header.gif" width="100%" alt="Digital Craftsman Banner"/>
   
-  # 🎮 Kiwora | Digital Craftsman
+  # Kiwora
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Minecraft&size=24&duration=2000&pause=1000&color=54F702&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Minecraft+%2B+AI+Developer;Machine+Learning+Engineer;Full+Stack+Programmer)](https://git.io/typing-svg)
-
-  ```ascii
-  🎮 MINECRAFT + 🤖 AI + 💻 CODE = 💫 MAGIC
-  ```
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=54F702&center=true&vCenter=true&width=440&lines=AI+Developer;Minecraft+Modder;Full+Stack+Engineer)](https://git.io/typing-svg)
 </div>
 
-## 🧙‍♂️ Skill Tree
+## About Me
 ```python
-class DigitalWizard:
+class Developer:
     def __init__(self):
         self.name = "Kiwora"
-        self.class_type = "Full-Stack AI Developer"
-        self.skills = {
-            "AI & ML": ["TensorFlow", "PyTorch", "Neural Networks"],
-            "Game Dev": ["Minecraft Modding", "Spigot", "Paper API"],
-            "Web Dev": ["MERN Stack", "Next.js", "Cloud Services"],
-            "Languages": ["Python", "Java", "JavaScript", "TypeScript"]
+        self.role = "AI & Game Developer"
+        self.focus = {
+            "primary": ["AI Development", "Minecraft Modding"],
+            "secondary": "Full Stack Development"
         }
-        self.current_quest = "Merging AI with Minecraft"
+        self.currently_working_on = "AI-Enhanced Minecraft Tools"
 ```
 
+## Tech Stack
 <div align="center">
-  
-## 🛠️ Arsenal of Tools
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 🌟 Power Stats
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=minecraft&hide_border=true&bg_color=0D1117"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&theme=dark&hide_border=true&background=0D1117&stroke=54F702&ring=54F702&fire=FF4500&currStreakLabel=54F702"/>
+**Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Web & Tools:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 </div>
 
-## 🎯 Quest Log (Current Projects)
-```css
-🤖 AI Projects:
-├── Neural Craft (AI-Enhanced Minecraft Mods)
-├── Machine Learning Models
-└── Natural Language Processing Systems
-
-🎮 Minecraft Development:
-├── KiworaToolsMC (Admin Tools)
-├── Custom Plugins
-└── Server Modifications
-
-💻 Web Development:
-├── Full-Stack Applications
-├── AI Integration Platforms
-└── Real-time Systems
-```
-
-## 🏆 Achievements
+## Projects & Stats
 <div align="center">
-
-| 🤖 AI & ML | 🎮 Gaming | 💻 Development |
-|------------|-----------|----------------|
-| Neural Networks | Minecraft Mods | Full-Stack Apps |
-| Deep Learning | Game AI | API Development |
-| Data Science | Plugin Creation | Cloud Solutions |
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=KiworaID&repo=KiworaToolsMC&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702"/>
 </div>
 
-## 📈 Skill Progress
+## Current Focus
 ```css
-AI & Machine Learning  [█████████░] 90%
-Minecraft Development [████████░░] 80%
-Full-Stack Dev        [███████░░░] 70%
-Cloud Computing       [██████░░░░] 60%
+🤖 AI Development
+   └── Neural Networks & Machine Learning
+🎮 Minecraft Projects
+   └── KiworaToolsMC (Admin Tools & AI Integration)
+💻 Full Stack Development
+   └── Web Applications & APIs
 ```
 
-## 🌐 Connection Points
+## Connect With Me
 <div align="center">
   
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kiworaid)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kiworaid)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiworaID)
 
 </div>
 
-## 🎵 Spotify Coding Mix
-[![Spotify](https://novatorem-kiwora.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-<div align="center">
-  
 ---
-<img src="footer.gif" width="100%" alt="Footer Animation"/>
-
-```ascii
-⚡ Turning Coffee into Code and Dreams into Digital Reality ⚡
-```
-![Profile Views](https://komarev.com/ghpvc/?username=KiworaID&color=54F702&style=flat-square)
-
+<div align="center">
+<sub>💻 Building the future, one line of code at a time</sub>
 </div>
