@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="minecraft_header.png" width="100%" alt="KiworaID Banner"/>
-  
   # KiworaID
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=54F702&center=true&vCenter=true&width=440&lines=AI+Developer;Minecraft+Modder;Full+Stack+Engineer)](https://git.io/typing-svg)
@@ -80,7 +77,7 @@ class Developer:
         <br><sub>Computer Vision & NLP</sub>
     </td>
     <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minecraft/minecraft-original.svg" width="30" alt="Minecraft"/>
+        <img src="logo.jfif" width="30" alt="Minecraft"/>
         <br><strong>Minecraft Projects</strong>
         <br><sub>KiworaToolsMC Development</sub>
         <br><sub>Custom Plugins & AI Integration</sub>
