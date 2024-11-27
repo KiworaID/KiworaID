@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://your-image-url.com/header-image.png" width="100%" alt="header"/>
+</div>
 
-<!--
-**KiworaID/KiworaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hai, Saya Kiwora!
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://your-image-url.com/profile-picture.png" width="200px" style="border-radius: 50%;" alt="profile"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Tentang Saya
+Saya hanya seorang programmer pemula yang senang belajar hal-hal baru. Saat ini sedang mengeksplorasi:
+- 🌟 Minecraft Development (masih banyak belajar)
+- 🤖 AI Engineering (terus mencoba memahami)
+- 💻 Full Stack Development (dalam proses pembelajaran)
+
+<div align="center">
+  <img src="https://your-image-url.com/minecraft-project.gif" width="400px" alt="minecraft project"/>
+</div>
+
+## 🛠️ Tech Stack Sederhana
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** PHP, Node.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Docker
+- **Framework:** Laravel, Express.js
+
+## 🌟 Project Unggulan
+- [Nama Project 1](link) - Deskripsi singkat project
+- [Nama Project 2](link) - Deskripsi singkat project
+- [Nama Project 3](link) - Deskripsi singkat project
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LinkedIn_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Twitter_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Instagram_URL)
+
+## 📈 Kontribusi
+![Snake animation](https://github.com/KiworaID/KiworaID/blob/output/github-contribution-grid-snake.svg)
+
+---
+⭐️ From [KiworaID](https://github.com/KiworaID)
