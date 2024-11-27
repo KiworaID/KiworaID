@@ -36,14 +36,14 @@ class Developer:
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"
+      srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=ffffff&icon_color=2F81F7"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=default&hide_border=true&title_color=54F702&icon_color=54F702"
+      srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&text_color=1F2328&icon_color=0969DA"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=default&hide_border=true&title_color=54F702&icon_color=54F702" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true" />
   </picture>
 </p>
 
@@ -60,7 +60,7 @@ class Developer:
 
 ---
 <div align="center">
-  <h2 align="center">Motivation</h2>
+  <h2 align="center">Quotes</h2>
   <p align="center" style="font-family: 'Traditional Arabic', serif; font-size: 1.2em;">
     اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ اللَّهِ وَرِضْوَانٌ ۖ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ
   </p>
