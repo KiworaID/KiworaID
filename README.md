@@ -59,6 +59,43 @@ class Developer:
 </p>
 
 ---
+<div align="center" class="motivation">
+  <h2 align="center">Daily Motivation</h2>
+  
+  <div lang="en" class="en">
+    <p><em>"Code is poetry in logic, bugs are just plot twists, and debugging is the art of being a detective. Every line you write is a step towards mastery."</em></p>
+    <p><em>"Don't just write code—craft solutions, build dreams, and leave your digital fingerprint on the world."</em></p>
+    <p><em>"The best code is like a good story: elegant, efficient, and leaves a lasting impact."</em></p>
+  </div>
+  
+  <div lang="id" class="id">
+    <p><em>"Kode adalah puisi dalam logika, bug hanyalah twist dalam cerita, dan debugging adalah seni menjadi detektif. Setiap baris yang kamu tulis adalah langkah menuju penguasaan."</em></p>
+    <p><em>"Jangan sekadar menulis kode—rancang solusi, bangun mimpi, dan tinggalkan jejak digitalmu di dunia."</em></p>
+    <p><em>"Kode terbaik itu seperti cerita yang bagus: elegan, efisien, dan meninggalkan kesan yang tak terlupakan."</em></p>
+  </div>
+</div>
+
+<style>
+/* Deteksi bahasa browser */
+:lang(en) .id { display: none; }
+:lang(id) .en { display: none; }
+
+.motivation p {
+    max-width: 800px;
+    margin: 15px auto;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #2ECC71;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+.motivation p:hover {
+    color: #27AE60;
+    transform: scale(1.01);
+    transition: all 0.3s ease;
+}
+</style>
+
 <p align="center">
   <h4>💻 Membangun masa depan, satu baris kode sekaligus</h4>
   <h4>💻 Building the future, one line of code at a time</h4>
