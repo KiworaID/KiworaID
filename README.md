@@ -1,10 +1,13 @@
-<div align="center">
+<h1 align="center">KiworaID</h1>
 
-# KiworaID
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=54F702&center=true&vCenter=true&width=440&lines=AI+Developer;Minecraft+Modder;Full+Stack+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=54F702&center=true&vCenter=true&width=440&lines=AI+Developer;Minecraft+Modder;Full+Stack+Engineer)](https://git.io/typing-svg)
+<h2 align="center">About Me</h2>
 
-## About Me
 ```python
 class Developer:
     def __init__(self):
@@ -14,8 +17,9 @@ class Developer:
         self.current_project = "AI-Enhanced Minecraft Tools"
 ```
 
-## Skills
-<p>
+<h2 align="center">Skills</h2>
+
+<p style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -27,11 +31,15 @@ class Developer:
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
-## Stats
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"/>
+<h2 align="center">Stats</h2>
 
-## Connect With Me
-<p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"/>
+</p>
+
+<h2 align="center">Connect With Me</h2>
+
+<p style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.tiktok.com/@kiworaid">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
@@ -41,6 +49,6 @@ class Developer:
 </p>
 
 ---
-<sub>💻 Building the future, one line of code at a time</sub>
-
-</div>
+<p align="center">
+  <sub>💻 Building the future, one line of code at a time</sub>
+</p>
