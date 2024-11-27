@@ -59,77 +59,14 @@ class Developer:
 </p>
 
 ---
-<div align="center" class="motivation">
-  <h2 align="center" id="motivation-title">Daily Motivation</h2>
-  
-  <div class="quote-container">
-    <p class="quote" id="quote1"></p>
-    <p class="quote" id="quote2"></p>
-    <p class="quote" id="quote3"></p>
-  </div>
+<div align="center">
+  <h2 align="center">Daily Motivation</h2>
+  <p align="center">
+    <h4 data-en="🚀 Code with passion, debug with patience, deploy with confidence" 
+        data-id="🚀 Koding dengan semangat, debug dengan sabar, deploy dengan percaya diri"></h4>
+    <h4 data-en="💡 Every bug is a feature waiting to be discovered" 
+        data-id="💡 Setiap bug adalah fitur yang menunggu untuk ditemukan"></h4>
+    <h4 data-en="⚡ The best error message is the one that never shows up" 
+        data-id="⚡ Pesan error terbaik adalah yang tidak pernah muncul"></h4>
+  </p>
 </div>
-
-<style>
-.motivation {
-    padding: 20px;
-    margin: 20px 0;
-}
-
-.quote-container {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.quote {
-    font-style: italic;
-    color: #54F702;
-    line-height: 1.6;
-    margin: 15px 0;
-    padding: 10px 20px;
-    border-left: 3px solid #54F702;
-    background: rgba(84, 247, 2, 0.05);
-    transition: all 0.3s ease;
-}
-
-.quote:hover {
-    transform: translateX(5px);
-    background: rgba(84, 247, 2, 0.1);
-}
-</style>
-
-<script>
-const quotes = {
-    en: {
-        title: "Daily Motivation",
-        quote1: "Code is poetry in logic, bugs are just plot twists, and debugging is the art of being a detective. Every line you write is a step towards mastery.",
-        quote2: "Don't just write code—craft solutions, build dreams, and leave your digital fingerprint on the world.",
-        quote3: "The best code is like a good story: elegant, efficient, and leaves a lasting impact."
-    },
-    id: {
-        title: "Motivasi Harian",
-        quote1: "Kode adalah puisi dalam logika, bug hanyalah twist dalam cerita, dan debugging adalah seni menjadi detektif. Setiap baris yang kamu tulis adalah langkah menuju penguasaan.",
-        quote2: "Jangan sekadar menulis kode—rancang solusi, bangun mimpi, dan tinggalkan jejak digitalmu di dunia.",
-        quote3: "Kode terbaik itu seperti cerita yang bagus: elegan, efisien, dan meninggalkan kesan yang tak terlupakan."
-    }
-};
-
-function setLanguage() {
-    const lang = navigator.language.toLowerCase().includes('id') ? 'id' : 'en';
-    document.getElementById('motivation-title').textContent = quotes[lang].title;
-    document.getElementById('quote1').textContent = quotes[lang].quote1;
-    document.getElementById('quote2').textContent = quotes[lang].quote2;
-    document.getElementById('quote3').textContent = quotes[lang].quote3;
-}
-
-// Set language when page loads
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', setLanguage);
-} else {
-    setLanguage();
-}
-</script>
-
-<p align="center">
-  <h4 data-en="💻 Building the future, one line of code at a time" 
-      data-id="💻 Membangun masa depan, satu baris kode sekaligus"></h4>
-</p>
