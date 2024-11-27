@@ -9,26 +9,49 @@
 <h2 align="center">About Me</h2>
 
 ```python
-class Developer:
+class KiworaID:
     def __init__(self):
         self.name = "KiworaID"
-        self.role = "AI & Game Developer"
-        self.focus = ["AI Development", "Minecraft Modding", "Full Stack"]
-        self.current_project = "AI-Enhanced Minecraft Tools"
+        self.location = "Indonesia 🇮🇩"
+        self.work = {
+            "role": "AI & Game Developer",
+            "specialization": "Minecraft Modding"
+        }
+        
+        self.skills = {
+            "AI": ["Machine Learning", "TensorFlow", "Neural Networks"],
+            "Game_Dev": ["Minecraft Modding", "Java", "Game Design"],
+            "Web_Dev": ["Full Stack", "Laravel", "React"]
+        }
+        
+        self.interests = [
+            "Artificial Intelligence 🤖",
+            "Game Development 🎮",
+            "Open Source 💻"
+        ]
+        
+        self.current_focus = {
+            "project": "AI-Enhanced Minecraft Tools",
+            "status": "In Development 🚀",
+            "goal": "Combining AI with Minecraft modding"
+        }
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something awesome together! 👋")
 ```
 
 <h2 align="center">Skills</h2>
 
 <p style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <h2 align="center">Stats</h2>
