@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="header.gif" width="100%" alt="Digital Craftsman Banner"/>
+  <img src="minecraft_header.png" width="100%" alt="KiworaID Banner"/>
   
-  # Kiwora
+  # KiworaID
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=54F702&center=true&vCenter=true&width=440&lines=AI+Developer;Minecraft+Modder;Full+Stack+Engineer)](https://git.io/typing-svg)
 </div>
@@ -10,7 +10,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Kiwora"
+        self.name = "KiworaID"
         self.role = "AI & Game Developer"
         self.focus = {
             "primary": ["AI Development", "Minecraft Modding"],
@@ -37,8 +37,6 @@ class Developer:
 ## Projects & Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=KiworaID&repo=KiworaToolsMC&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702"/>
-</div>
 
 ## Current Focus
 ```css
