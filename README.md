@@ -68,7 +68,7 @@ class Developer:
     <b>QS Al-Hadid (57:20)</b>
   </p>
   <p align="center" style="max-width: 600px; margin: 15px auto; line-height: 1.6;">
-    "Ketahuilah bahwa kehidupan dunia itu hanyalah permainan dan sendagurau, perhiasan dan saling berbangga diantara kamu serta berlomba dalam kekayaan dan anak keturunan. Seperti hujan yang tanam-tanamannya mengagumkan para petani; kemudian (tanaman) itu menjadi kering dan kamu lihat warnanya kuning kemudian menjadi hancur. Dan di akhirat (nanti) ada azab yang keras dan ampunan dari Allah serta keridhaan-Nya. Dan kehidupan dunia tidak lain hanyalah kesenangan yang palsu."
+    "Ketahuilah bahwa kehidupan dunia itu hanyalah permainan dan sendagurau, perhiasan dan saling berbangga diantara kamu serta berlomba dalam kekayaan dan anak keturunan. Seperti hujan yang tanam-tanamannya mengagumkan para petani; kemudian (tanaman) itu menjadi kering dan kamu lihat warnanya kuning kemudian menjadi hancur. Dan di akhirat (nanti) ada azab yang keras dan ampunan dari Allah serta keridhaan-Nya. Dan **kehidupan dunia tidak lain hanyalah kesenangan yang palsu.**"
   </p>
   <hr style="width: 50%; margin: 20px auto; border: 0; border-top: 1px solid #eee;">
 </div>
