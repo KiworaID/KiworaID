@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://your-image-url.com/header-image.png" width="100%" alt="header"/>
+  <img src="minecraft_header.png" width="100%" alt="header"/>
 </div>
 
 # 👋 Hai, Saya Kiwora!
-
-<div align="center">
-  <img src="https://your-image-url.com/profile-picture.png" width="200px" style="border-radius: 50%;" alt="profile"/>
-</div>
 
 ## 🎮 Tentang Saya
 Saya hanya seorang programmer pemula yang senang belajar hal-hal baru. Saat ini sedang mengeksplorasi:
@@ -15,7 +11,7 @@ Saya hanya seorang programmer pemula yang senang belajar hal-hal baru. Saat ini 
 - 💻 Full Stack Development (dalam proses pembelajaran)
 
 <div align="center">
-  <img src="https://your-image-url.com/minecraft-project.gif" width="400px" alt="minecraft project"/>
+  <img src="minecraft_project.gif" width="400px" alt="minecraft project"/>
 </div>
 
 ## 🛠️ Tech Stack Sederhana
