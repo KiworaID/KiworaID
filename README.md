@@ -49,7 +49,7 @@ class Developer:
 
 <h2 align="center">Connect With Me</h2>
 
-<p style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <a href="https://www.tiktok.com/@kiworaid">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
@@ -60,5 +60,6 @@ class Developer:
 
 ---
 <p align="center">
-  <sub>💻 Building the future, one line of code at a time</sub>
+  <h4>💻 Membangun masa depan, satu baris kode sekaligus</h4>
+  <h4>💻 Building the future, one line of code at a time</h4>
 </p>
