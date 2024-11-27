@@ -70,14 +70,30 @@ class Developer:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=54F702&icon_color=54F702"/>
 
 ## Current Focus
-```css
-🤖 AI Development
-   └── Neural Networks & Machine Learning
-🎮 Minecraft Projects
-   └── KiworaToolsMC (Admin Tools & AI Integration)
-💻 Full Stack Development
-   └── Web Applications & APIs
-```
+<div align="center">
+<table>
+<tr>
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" alt="AI"/>
+        <br><strong>AI Development</strong>
+        <br><sub>Neural Networks & Deep Learning</sub>
+        <br><sub>Computer Vision & NLP</sub>
+    </td>
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minecraft/minecraft-original.svg" width="30" alt="Minecraft"/>
+        <br><strong>Minecraft Projects</strong>
+        <br><sub>KiworaToolsMC Development</sub>
+        <br><sub>Custom Plugins & AI Integration</sub>
+    </td>
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" alt="Web"/>
+        <br><strong>Full Stack Development</strong>
+        <br><sub>Modern Web Applications</sub>
+        <br><sub>RESTful APIs & Microservices</sub>
+    </td>
+</tr>
+</table>
+</div>
 
 ## Connect With Me
 <div align="center">
