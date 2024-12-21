@@ -47,27 +47,27 @@
   <h2>📊 GitHub Score</h2>
   <p align="center">
     <a href="https://github.com/KiworaID">
-      <img src="https://img.shields.io/github/followers/KiworaID?label=Followers&style=social" alt="GitHub Followers" />
+      <img height="20" src="https://img.shields.io/github/followers/KiworaID?color=6F9EFF&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
     </a>
     <a href="https://github.com/KiworaID?tab=repositories">
-      <img src="https://img.shields.io/github/stars/KiworaID?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+      <img height="20" src="https://img.shields.io/github/stars/KiworaID?color=6F9EFF&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
     </a>
   </p>
 </div>
 
 <div align="center">
   <h2>🌐 Connect With Me</h2>
-  <p align="center">
-    <a href="https://www.tiktok.com/@kiworaid">
-      <img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok" alt="TikTok"/>
-    </a>
-    <a href="https://www.youtube.com/@kiworaid">
-      <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" alt="YouTube"/>
-    </a>
-    <a href="https://github.com/KiworaID">
-      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
-    </a>
-  </p>
+  <a href="https://www.tiktok.com/@kiworaid">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@kiworaid">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/KiworaID">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
