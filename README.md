@@ -46,37 +46,11 @@
 <div align="center">
   <h2>📊 GitHub Score</h2>
   
-  <table>
-    <tr>
-      <td><b>Total Stars Earned</b></td>
-      <td><img src="https://img.shields.io/badge/4-6F9EFF?style=for-the-badge" alt="Stars Earned"/></td>
-    </tr>
-    <tr>
-      <td><b>Total Commits (2024)</b></td>
-      <td><img src="https://img.shields.io/badge/261-6F9EFF?style=for-the-badge" alt="Total Commits"/></td>
-    </tr>
-    <tr>
-      <td><b>Total PRs</b></td>
-      <td><img src="https://img.shields.io/badge/32-6F9EFF?style=for-the-badge" alt="Total PRs"/></td>
-    </tr>
-    <tr>
-      <td><b>Total Issues</b></td>
-      <td><img src="https://img.shields.io/badge/0-6F9EFF?style=for-the-badge" alt="Total Issues"/></td>
-    </tr>
-    <tr>
-      <td><b>Contributed (last year)</b></td>
-      <td><img src="https://img.shields.io/badge/1-6F9EFF?style=for-the-badge" alt="Contributed"/></td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <a href="https://github.com/KiworaID">
-      <img height="20" src="https://img.shields.io/github/followers/KiworaID?color=6F9EFF&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/KiworaID?tab=repositories">
-      <img height="20" src="https://img.shields.io/github/stars/KiworaID?color=6F9EFF&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
-    </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=transparent&title_color=6F9EFF&text_color=ffffff&icon_color=6F9EFF&hide_border=true" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&theme=transparent&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&theme=transparent&title_color=6F9EFF&text_color=ffffff&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
