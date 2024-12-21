@@ -1,60 +1,83 @@
-<h1 align="center">KiworaID</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Welcome+to+KiworaID's+Profile;AI+%2B+Game+Developer;Minecraft+Modding+Expert" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=AI+Developer;Minecraft+Modder;Full+Stack+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KiworaID&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
 
-<h2 align="center">About Me</h2>
+<div align="center">
+  <h2>🚀 Tentang Saya</h2>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 ```python
 class KiworaID:
     def __init__(self):
         self.name = "KiworaID"
+        self.title = "AI & Game Developer 🎮"
         self.location = "Indonesia 🇮🇩"
         self.work = {
             "role": "AI & Game Developer",
-            "specialization": "Minecraft Modding"
+            "specialization": "Minecraft Modding",
+            "passion": "Creating Innovative Games"
         }
         
         self.skills = {
-            "AI": ["Machine Learning", "TensorFlow", "Neural Networks"],
-            "Game_Dev": ["Minecraft Modding", "Java", "Game Design"],
-            "Web_Dev": ["Full Stack", "Laravel", "React"]
+            "AI": ["Machine Learning 🤖", "TensorFlow", "Neural Networks"],
+            "Game_Dev": ["Minecraft Modding ⚒️", "Java ☕", "Game Design 🎨"],
+            "Web_Dev": ["Full Stack 💻", "Laravel", "React ⚛️"]
         }
         
         self.interests = [
-            "Artificial Intelligence 🤖",
+            "Artificial Intelligence 🧠",
             "Game Development 🎮",
-            "Open Source 💻"
+            "Open Source 💡"
         ]
         
         self.current_focus = {
             "project": "AI-Enhanced Minecraft Tools",
             "status": "In Development 🚀",
-            "goal": "Combining AI with Minecraft modding"
+            "goal": "Revolutionizing Minecraft with AI"
         }
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's create something awesome together! 👋")
+        print("Mari berkolaborasi untuk membuat sesuatu yang luar biasa! 🌟")
 ```
 
-<h2 align="center">Skills</h2>
+<div align="center">
+  <h2>🛠️ Tech Stack & Tools</h2>
+</div>
 
-<p style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<details open>
+<summary>Languages</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+</details>
 
-<h2 align="center">Stats</h2>
+<details open>
+<summary>Frameworks & Libraries</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+</details>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <picture>
@@ -66,32 +89,41 @@ class KiworaID:
       srcset="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969DA&text_color=1F2328&icon_color=0969DA"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true" />
   </picture>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&theme=tokyonight"/>
 </p>
 
-<h2 align="center">Connect With Me</h2>
+<div align="center">
+  <h2>🤝 Mari Terhubung</h2>
+</div>
 
 <p align="center">
   <a href="https://www.tiktok.com/@kiworaid">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@kiworaid">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
 
----
 <div align="center">
-  <h2 align="center">Quotes</h2>
+  <h2>🌟 Quotes Inspiratif</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  <h3>Quotes Al-Qur'an</h3>
   <p align="center" style="font-family: 'Traditional Arabic', serif; font-size: 1.2em;">
-    اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ اللَّهِ وَرِضْوَانٌ ۖ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ
+    اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ
   </p>
-  <p align="center" style="font-style: italic; color: #666; margin-top: 10px;">
+  <p align="center" style="font-style: italic; color: #666;">
     <b>QS Al-Hadid (57:20)</b>
   </p>
   <p align="center" style="max-width: 600px; margin: 15px auto; line-height: 1.6;">
-    "Ketahuilah bahwa kehidupan dunia itu hanyalah permainan dan sendagurau, perhiasan dan saling berbangga diantara kamu serta berlomba dalam kekayaan dan anak keturunan. Seperti hujan yang tanam-tanamannya mengagumkan para petani; kemudian (tanaman) itu menjadi kering dan kamu lihat warnanya kuning kemudian menjadi hancur. Dan di akhirat (nanti) ada azab yang keras dan ampunan dari Allah serta keridhaan-Nya. Dan kehidupan dunia tidak lain hanyalah kesenangan yang palsu."
+    "Ketahuilah bahwa kehidupan dunia itu hanyalah permainan dan sendagurau, perhiasan dan saling berbangga diantara kamu serta berlomba dalam kekayaan dan anak keturunan..."
   </p>
-  <hr style="width: 50%; margin: 20px auto; border: 0; border-top: 1px solid #eee;">
+</div>
+
+<div align="center">
+  <img src="https://github.com/KiworaID/KiworaID/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
