@@ -49,15 +49,15 @@
   <table>
     <tr>
       <td>
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF&bg_color=00000000&hide_border=true&theme=dark" alt="GitHub Stats"/>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&title_color=6F9EFF&text_color=A3B3BC&icon_color=6F9EFF&bg_color=0D1117&hide_border=true&border_radius=10&ring_color=6F9EFF" alt="GitHub Stats"/>
       </td>
       <td>
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&title_color=6F9EFF&text_color=FFFFFF&bg_color=00000000&hide_border=true&theme=dark" alt="Top Languages"/>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&title_color=6F9EFF&text_color=A3B3BC&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Languages"/>
       </td>
     </tr>
   </table>
   
-  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true&background=00000000&stroke=00000000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&theme=dark" alt="GitHub Streak"/>
+  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true&background=0D1117&stroke=6F9EFF&currStreakNum=A3B3BC&sideNums=A3B3BC&sideLabels=A3B3BC&dates=808B96&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
