@@ -47,11 +47,14 @@
   <h2>📊 GitHub Statistics</h2>
   
   <a href="https://github.com/KiworaID">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KiworaID&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KiworaID&layout=compact&theme=transparent&hide_border=true&title_color=6F9EFF&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF"/>
   </a>
   
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&theme=transparent&hide_border=true&stroke=6F9EFF&ring=6F9EFF&fire=FF8B4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+  <a href="https://github.com/KiworaID">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=6F9EFF&text_color=FFFFFF"/>
+  </a>
+  
+  <img width="100%" src="https://streak-stats.demolab.com?user=KiworaID&theme=transparent&hide_border=true&stroke=6F9EFF&ring=6F9EFF&fire=FF8B4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -72,7 +75,7 @@
   
   <div style="background: rgba(111, 158, 255, 0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
     <p align="center" style="font-family: 'Traditional Arabic', serif; font-size: 1.5em; line-height: 2;">
-      اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ
+      اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْو��الِ وَالْأَوْلَادِ
     </p>
     <p align="center" style="font-style: italic; color: #6F9EFF;">
       <b>QS Al-Hadid (57:20)</b>
