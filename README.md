@@ -44,13 +44,20 @@
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Score</h2>
+  <h2>📊 GitHub Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF&bg_color=00000000&hide_border=true&theme=dark" alt="GitHub Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF&bg_color=00000000&hide_border=true&theme=dark" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&title_color=6F9EFF&text_color=FFFFFF&bg_color=00000000&hide_border=true&theme=dark" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true&background=00000000&stroke=00000000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&theme=dark" alt="GitHub Streak"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&title_color=6F9EFF&text_color=FFFFFF&bg_color=00000000&hide_border=true&theme=dark" alt="Top Languages"/>
+  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true&background=00000000&stroke=00000000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
