@@ -44,18 +44,9 @@
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  
+  <h2>📊 GitHub Score</h2>
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KiworaID&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF&bg_color=00000000"/>
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KiworaID&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6F9EFF&text_color=FFFFFF&bg_color=00000000"/>
-  </p>
-  
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=KiworaID&theme=tokyonight&hide_border=true&background=00000000&stroke=6F9EFF&ring=6F9EFF&fire=FF8B4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KiworaID&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF&bg_color=00000000&hide=issues,contribs"/>
   </p>
 </div>
 
