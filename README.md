@@ -46,21 +46,26 @@
 <div align="center">
   <h2>📊 GitHub Score</h2>
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KiworaID&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=6F9EFF&text_color=FFFFFF&icon_color=6F9EFF&bg_color=00000000&hide=issues,contribs"/>
+    <a href="https://github.com/KiworaID">
+      <img src="https://img.shields.io/github/followers/KiworaID?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/KiworaID?tab=repositories">
+      <img src="https://img.shields.io/github/stars/KiworaID?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+    </a>
   </p>
 </div>
 
 <div align="center">
   <h2>🌐 Connect With Me</h2>
   <p align="center">
-    <a href="https://www.tiktok.com/@kiworaid" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-    </a>&nbsp;
-    <a href="https://www.youtube.com/@kiworaid" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>&nbsp;
-    <a href="https://github.com/KiworaID" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://www.tiktok.com/@kiworaid">
+      <img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok" alt="TikTok"/>
+    </a>
+    <a href="https://www.youtube.com/@kiworaid">
+      <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" alt="YouTube"/>
+    </a>
+    <a href="https://github.com/KiworaID">
+      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
     </a>
   </p>
 </div>
