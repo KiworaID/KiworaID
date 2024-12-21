@@ -16,7 +16,7 @@
     <ul>
       <li>🎮 AI & Game Developer dari Indonesia</li>
       <li>🔭 Fokus pada Minecraft Modding & AI</li>
-      <li>🌱 Sedang mengembangkan AI-Enhanced Minecraft Tools</li>
+      <li>🌱 Fokus kepada pengembangan AI</li>
       <li>⚡ Passionate dalam menciptakan game inovatif</li>
     </ul>
   </div>
