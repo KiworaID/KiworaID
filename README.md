@@ -44,15 +44,34 @@
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Score</h2>
-  <p align="center">
-    <a href="https://github.com/KiworaID">
-      <img height="20" src="https://img.shields.io/github/followers/KiworaID?color=6F9EFF&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/KiworaID?tab=repositories">
-      <img height="20" src="https://img.shields.io/github/stars/KiworaID?color=6F9EFF&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
-    </a>
-  </p>
+  <h2>📊 GitHub Stats</h2>
+  <table>
+    <tr>
+      <td><b>Total Stars Earned:</b></td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td><b>Total Commits (2024):</b></td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><b>Total PRs:</b></td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><b>Total Issues:</b></td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><b>Contributed to (last year):</b></td>
+      <td>0</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h2>💻 Most Used Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&theme=transparent&hide_border=true&title_color=6F9EFF&text_color=FFFFFF" />
 </div>
 
 <div align="center">
