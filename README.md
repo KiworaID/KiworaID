@@ -46,11 +46,11 @@
 <div align="center">
   <h2>📊 GitHub Score</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&theme=transparent&title_color=6F9EFF&text_color=ffffff&icon_color=6F9EFF&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KiworaID&show_icons=true&title_color=6F9EFF&text_color=ffffff&icon_color=6F9EFF&hide_border=true" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&theme=transparent&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&theme=transparent&title_color=6F9EFF&text_color=ffffff&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiworaID&layout=compact&title_color=6F9EFF&text_color=ffffff&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
