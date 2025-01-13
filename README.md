@@ -56,8 +56,6 @@
       </td>
     </tr>
   </table>
-  
-  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=KiworaID&ring=6F9EFF&fire=6F9EFF&currStreakLabel=6F9EFF&hide_border=true&background=0D1117&stroke=6F9EFF&currStreakNum=A3B3BC&sideNums=A3B3BC&sideLabels=A3B3BC&dates=808B96&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
