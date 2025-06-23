@@ -20,7 +20,14 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,tensorflow,pytorch,unity,unreal,react,nodejs,mysql,git,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql,lua" />
+  <br/>
+  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+### 💪 **Expert Level:**
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&color=4F5D95"/>
 </div>
 
 ## 📊 GitHub Stats
